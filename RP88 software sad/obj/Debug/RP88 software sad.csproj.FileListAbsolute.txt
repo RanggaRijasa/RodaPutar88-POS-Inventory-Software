@@ -1,0 +1,40 @@
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\RP88 software sad.exe.config
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\RP88 software sad.exe
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\RP88 software sad.pdb
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\Guna.UI2.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\MySql.Data.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\MySql.Web.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\Google.Protobuf.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\ZstdNet.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\System.Buffers.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\MySql.Data.xml
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Debug\MySql.Web.xml
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88 software sad.csproj.AssemblyReference.cache
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88 software sad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88 software sad.exe.config
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\Log_in_roda_putar.FormLogin.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\sign_up_roda_putar_88.Formsignup.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88_software_sad.Properties.Resources.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88 software sad.csproj.GenerateResource.cache
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88 software sad.csproj.CoreCompileInputs.cache
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88 software sad.csproj.CopyComplete
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88 software sad.exe
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88 software sad.pdb
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\MainMenu_Roda_putar_88.FormMainMenu.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88_software_sad.Formkosong.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\MainMenu_Roda_putar_88.Order_Main_Menu.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\MainMenu_Roda_putar_88.Products_Main_Menu.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\MainMenu_Roda_putar_88.History_Mainmenu.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\MainMenu_Roda_putar_88.Manage_Goods_Main_Menu.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88_software_sad.FormEditPrice.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\MainMenu_Roda_putar_88.Raw_material.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\MainMenu_Roda_putar_88.StockOpnameMenu.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\MainMenu_Roda_putar_88.BalanceSheet.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Debug\RP88_software_sad.FormSetLowStockAlert.resources

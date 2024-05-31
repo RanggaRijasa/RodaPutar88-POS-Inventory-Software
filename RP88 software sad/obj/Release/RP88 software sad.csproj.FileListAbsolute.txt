@@ -1,0 +1,33 @@
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\RP88 software sad.exe.config
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\RP88 software sad.exe
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\RP88 software sad.pdb
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\Guna.UI2.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\MySql.Data.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\MySql.Data.EntityFramework.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\MySql.Web.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\Google.Protobuf.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\ZstdNet.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\System.Buffers.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\MySql.Data.xml
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\MySql.Data.EntityFramework.xml
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\bin\Release\MySql.Web.xml
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88 software sad.csproj.AssemblyReference.cache
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88 software sad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88 software sad.exe.config
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\Log_in_roda_putar.FormLogin.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\sign_up_roda_putar_88.Formsignup.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88_software_sad.Properties.Resources.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88 software sad.csproj.GenerateResource.cache
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88 software sad.csproj.CoreCompileInputs.cache
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88 software sad.csproj.CopyComplete
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88 software sad.exe
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88 software sad.pdb
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\MainMenu_Roda_putar_88.FormMainMenu.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\RP88_software_sad.Formkosong.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\MainMenu_Roda_putar_88.Order_Main_Menu.resources
+C:\Users\Rangga R\source\repos\RP88 software sad\RP88 software sad\obj\Release\MainMenu_Roda_putar_88.Products_Main_Menu.resources
