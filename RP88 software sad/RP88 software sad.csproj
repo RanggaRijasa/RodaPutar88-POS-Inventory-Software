@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{24F5616C-615B-443C-8E37-DB2657253FA7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RP88_software_sad</RootNamespace>
+    <AssemblyName>RP88 software sad</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.5, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.5\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.EntityFramework, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Web, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BalanceSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BalanceSheet.designer.cs">
+      <DependentUpon>BalanceSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\StoredData.cs" />
+    <Compile Include="FormSetLowStockAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSetLowStockAlert.Designer.cs">
+      <DependentUpon>FormSetLowStockAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockOpname.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockOpname.designer.cs">
+      <DependentUpon>StockOpname.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rawmaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rawmaterial.designer.cs">
+      <DependentUpon>Rawmaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditPrice.Designer.cs">
+      <DependentUpon>FormEditPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formmainmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formmainmenu.designer.cs">
+      <DependentUpon>Formmainmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSignup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSignup.designer.cs">
+      <DependentUpon>FormSignup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formkosong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formkosong.Designer.cs">
+      <DependentUpon>Formkosong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="History Mainmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History Mainmenu.designer.cs">
+      <DependentUpon>History Mainmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Goods Main Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Goods Main Menu.designer.cs">
+      <DependentUpon>Manage Goods Main Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order Main Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order Main Menu.designer.cs">
+      <DependentUpon>Order Main Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products Main Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products Main Menu.designer.cs">
+      <DependentUpon>Products Main Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BalanceSheet.resx">
+      <DependentUpon>BalanceSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSetLowStockAlert.resx">
+      <DependentUpon>FormSetLowStockAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockOpname.resx">
+      <DependentUpon>StockOpname.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rawmaterial.resx">
+      <DependentUpon>Rawmaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditPrice.resx">
+      <DependentUpon>FormEditPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formmainmenu.resx">
+      <DependentUpon>Formmainmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSignup.resx">
+      <DependentUpon>FormSignup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formkosong.resx">
+      <DependentUpon>Formkosong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History Mainmenu.resx">
+      <DependentUpon>History Mainmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Goods Main Menu.resx">
+      <DependentUpon>Manage Goods Main Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order Main Menu.resx">
+      <DependentUpon>Order Main Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products Main Menu.resx">
+      <DependentUpon>Products Main Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cofee-bean-logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-rd881.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-wave-rd88 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-wave-rd88 %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-wave-rd881.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rename1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RodaPutar88-real logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-up-wave %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bottom page Main Menu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\celup dukuh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee pouch1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Main Menu Background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainMenu page1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minuman coffee1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass-clipart-transparent-background-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custom-coffee-boxes-2021-10-19-191947.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3717295073_f5ae257d71_o.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go-Compost-A-pile-of-white-coffee-disposable-cups-with-lids-and-sleeves.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-20200801-090630.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
